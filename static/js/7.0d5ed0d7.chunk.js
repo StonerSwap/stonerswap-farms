@@ -439,7 +439,8 @@
                     return Object(V.jsxs)(k.a, {
                         children: [
                             Object(V.jsxs)(be, {
-                                children: [
+                                children: [Object(V.jsx)(g.t, { as: "a", href: "", target: "_blank", rel: "noreferrer noopener", children: [Object(V.jsx)("img", { src: "https://stonerswap.finance/images/SS_YOUR_AD_HERE.png", alt: "Banner Icon", width: 1092, height: 135 })] })],
+                            }),
                                     Object(V.jsxs)(be, {
                                         children: [Object(V.jsx)("img", { src: "https://stonerswap.finance/images/StonerSwap_txt3.png", alt: "Banner Icon", width: 398, height: 231})],
                                     }),
