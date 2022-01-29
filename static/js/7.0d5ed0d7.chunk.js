@@ -441,7 +441,7 @@
                             Object(V.jsxs)(be, {
                                 children: [
                                     Object(V.jsxs)(be, {
-                                        children: [Object(V.jsx)("img", { src: "https://stonerswap.finance/images/StonerSwap_txt2.png", alt: "Banner Icon", width: 374, height: 200})],
+                                        children: [Object(V.jsx)("img", { src: "https://stonerswap.finance/images/StonerSwap_txt2.png", alt: "Banner Icon", width: 398, height: 231})],
                                     }),
                                     /*
                                     Object(V.jsx)(g.t, { as: "h1", size: "xl", mb: "24px", color: "secondary", children: e(576, "Stoner Swap") }),
