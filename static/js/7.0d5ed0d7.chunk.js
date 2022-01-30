@@ -441,7 +441,7 @@
                             Object(V.jsxs)(be, {
                                 children: [
                                     Object(V.jsxs)(be, {
-                                        children: [Object(V.jsx)(g.t, { as: "a", href: "https://t.me/stonerswap", target: "_blank", rel: "noreferrer noopener", children: [Object(V.jsx)("img", { src: "https://stonerswap.finance/images/SS_YOUR_AD_HERE.png", alt: "Banner Ad", width: 1092, height: 135 })] })],
+                                        children: [Object(V.jsx)(g.t, { as: "a", href: "https://t.me/stonerswap", target: "_blank", rel: "noreferrer noopener", children: [Object(V.jsx)("img", { src: "https://stonerswap.finance/images/SS_YOUR_AD_HERE.png", alt: "Banner Ad", width: 728, height: 90 })] })],
                                     }),
                                     Object(V.jsxs)(be, {
                                         children: [Object(V.jsx)("img", { src: "https://stonerswap.finance/images/StonerSwap_txt3.png", alt: "Banner Icon", width: 199, height: 115 })],
